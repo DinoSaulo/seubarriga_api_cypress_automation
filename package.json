@@ -1,0 +1,24 @@
+{
+  "name": "seubarriga_api_cypress_automation",
+  "version": "1.0.0",
+  "description": "Automação da API barrigareact.wcaquino.me utilizando Cypress, Node.js e Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DinoSaulo/seubarriga_api_cypress_automation.git"
+  },
+  "author": "DinoSaulo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DinoSaulo/seubarriga_api_cypress_automation/issues"
+  },
+  "homepage": "https://github.com/DinoSaulo/seubarriga_api_cypress_automation#readme",
+  "dependencies": {
+    "cypress": "^10.0.2",
+    "cypress-xpath": "^1.6.2"
+  }
+}
