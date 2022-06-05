@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/DinoSaulo/seubarriga_api_cypress_automation#readme",
   "dependencies": {
-    "cypress-xpath": "^1.6.2"
+    "cypress-xpath": "^1.6.2",
+    "dayjs": "^1.11.2"
   },
   "devDependencies": {
     "cypress": "^10.0.2"
